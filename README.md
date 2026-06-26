@@ -30,7 +30,7 @@ make a new folder "oh-my-posh-linux-themes"
 ```bash
 cd /
 cd /home/user/
-mkdrir "oh-my-posh-linux-themes"
+mkdir "oh-my-posh-linux-themes"
 ```
 copy the brayan.omp.json file 
 ```bash
