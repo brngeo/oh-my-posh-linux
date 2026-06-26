@@ -49,5 +49,5 @@ Close all terminal and restart the terminal.
 Good Job! \
 your terminal is now good looking.
 
-## Authors
+## Author
 - [@brayan](https://facebook.com/brn.geo04)
